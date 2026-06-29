@@ -47,6 +47,9 @@ Final Answer
 ---
 
 ---
+#Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7bd1ccd6-cc2d-459d-9ad3-97480f8848c7" />
+
 
 ## Example Questions
 
